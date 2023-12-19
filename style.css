@@ -1,0 +1,39 @@
+#border{
+    height: 400px;
+    width: 275px;
+    border: 5px solid rgb(121, 118, 118);
+    padding-left:37px;
+    padding-top: 20px;
+   
+}
+.display{
+    height:50px;
+    width: 200px;
+    border: 2px solid rgb(167, 162, 162);
+    margin-bottom: 15px;
+    margin-left: 17px;
+}
+#dis{
+    height: 100%;
+    width: 100%;
+    font-size: 30px;
+}
+.button{
+    display: inline;
+    font-size: 30px;
+    height: 50px;
+    width: 70px;
+    margin-left:15px;
+    margin-top:2px;
+    border-top: 5px solid rgb(26, 25, 25); 
+    
+    
+}
+.c{
+    margin-left: 0;
+
+}
+.d{
+    margin-left: 35px;
+
+}
