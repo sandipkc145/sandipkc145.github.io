@@ -112,7 +112,7 @@ nav{
 
 #image-of-me {
   grid-column: 1/2;
-  background-image: url('./Assets/sandip.png');
+  background-image: url('./Assets/me.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
