@@ -112,7 +112,7 @@ nav{
 
 #image-of-me {
   grid-column: 1/2;
-  background-image: url('./Assets/me.png');
+  background-image: url('./Assets/sandip1.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -273,7 +273,7 @@ nav{
 .more-img-of-me{
   height: 400px;
   border-radius: 30px;
-  background-image: url("./Assets/sandip1.png");
+  background-image: url("./Assets/me.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
