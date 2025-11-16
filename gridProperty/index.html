@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>use of grid part 2</title>
+</head>
+<style>
+    .container{
+        height: 100vh;
+       gap:40px;
+        display: grid;
+      grid-template-rows: 50vh 50vh;
+      grid-template-columns: 30vw 60vw;
+
+    }
+    .item{
+        border: black solid 2px ;
+
+    }
+    .one{
+        background-color: red;
+    }
+    .two{
+        background-color: yellow;
+       grid-row: span 2;
+    }
+
+    .three{
+        background-color: green;
+    }
+</style>
+<body>
+    <div class="container">
+        <div class="itemi one"> 1 </div>
+        <div class="item two"> 2 </div>
+        <div class="item three"> 3 </div>
+
+
+    </div>
+</body>
+</html>
