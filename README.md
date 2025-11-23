@@ -12,8 +12,8 @@ These are my high-value, separate applications, demonstrating proficiency in mod
 
 | Project Name | Stack | Status | Value Demonstrated | Repository Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **StudyFlow MERN App** | React, Node.js, Express, MongoDB | **In Development** | Full-stack architecture, database integration, and complex logic (time-tracking). | **[INSERT YOUR STUDYFLOW REPO URL HERE]** |
-| **Notes App** | React, Tailwind CSS | **Needs Polish (CRUD)** | State management, component architecture, and responsive design. | **[INSERT YOUR NOTES APP REPO URL HERE]** |
+| **StudyFlow MERN App** | React, Node.js, Express, MongoDB | **In Development** | Full-stack architecture, database integration, and complex logic (time-tracking). | **[Soon]** |
+| **Notes App** | React, Tailwind CSS | **Needs Polish (CRUD)** | State management, component architecture, and responsive design. | **[https://sandipkc145.github.io/react-notes-app/]** |
 
 ---
 
